@@ -1,4 +1,4 @@
-Hi there, I'm @JaninduTW 👋
+Hi there, I'm Janindu 👋
 
 
 <!--
