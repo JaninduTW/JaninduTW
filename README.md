@@ -39,9 +39,6 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" />
   </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="express" />
-  </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma" />
   </a> 
