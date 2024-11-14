@@ -6,10 +6,10 @@
 </p>
 
 - 🔭 I’m currently working on **Movie Theater Website** <br><br><br><br>
-- 🌱 I’m currently learning **Python**
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/](https://www.youtube.com/)
-- 💬 Ask me about **React**
-- 📫 How to reach me **janindutharinda2001@gmail.com**
+- 🌱 I’m currently learning **Python**<br><br>
+- 👨‍💻 All of my projects are available at [https://www.youtube.com/](https://www.youtube.com/)<br><br>
+- 💬 Ask me about **React**<br><br>
+- 📫 How to reach me **janindutharinda2001@gmail.com**<br><br>
 - ⚡ Fun fact **Funny Guy**
 
 <h3 align="left">Connect with me:</h3>
