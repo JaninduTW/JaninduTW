@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=janindutw&label=Profile%20views&color=0e75b6&style=flat" alt="janindutw" />
 </p>
 
-- 🔭 I’m currently working on **Movie Theater Website** <br><br>
-- 🌱 I’m currently learning **Python**<br><br>
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/](https://www.youtube.com/)<br><br>
-- 💬 Ask me about **React**<br><br>
-- 📫 How to reach me **janindutharinda2001@gmail.com**<br><br>
+- 🔭 I’m currently working on **Movie Theater Website** <br>
+- 🌱 I’m currently learning **Python**<br>
+- 👨‍💻 All of my projects are available at [https://www.youtube.com/](https://www.youtube.com/)<br>
+- 💬 Ask me about **React**<br>
+- 📫 How to reach me **janindutharinda2001@gmail.com**<br>
 - ⚡ Fun fact **Funny Guy**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,7 +23,7 @@
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="android" />
-  </a> 
+  </a> <br>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angular" />
   </a> 
