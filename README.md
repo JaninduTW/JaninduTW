@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=janindutw&label=Profile%20views&color=0e75b6&style=flat" alt="janindutw" />
 </p>
 
-- 🔭 I’m currently working on **Movie Theater Website** <br><br><br><br>
+- 🔭 I’m currently working on **Movie Theater Website** <br><br>
 - 🌱 I’m currently learning **Python**<br><br>
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/](https://www.youtube.com/)<br><br>
 - 💬 Ask me about **React**<br><br>
