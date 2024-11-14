@@ -23,7 +23,7 @@
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="android" />
-  </a> <br>
+  </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angular" />
   </a> 
