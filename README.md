@@ -68,19 +68,13 @@
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" />
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" />
-  </a> 
+  </a>  
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="photoshop" />
   </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="php" />
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="postman" />
-  </a> 
+  </a>  
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" />
   </a> 
