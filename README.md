@@ -88,3 +88,8 @@
     <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwind" />
   </a> 
 </p>
+
+<!-- Add an animation gif to the right -->
+<div align="right">
+  <img src="https://media.giphy.com/media/3o7bu3X9tIa6y9xLaE/giphy.gif" alt="Animated GIF" width="300" />
+</div>
