@@ -26,7 +26,7 @@
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/yourusername" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://freeicons.io/social-media-8/instagram-icon-19965" alt="Instagram" />
   </a>
 
   <!-- Facebook -->
@@ -38,7 +38,7 @@
   <a href="https://github.com/janindutw" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p><br>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
