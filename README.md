@@ -12,6 +12,11 @@
 - 📫 How to reach me **janindutharinda2001@gmail.com**<br>
 - ⚡ Fun fact **Funny Guy**
 
+<!-- Add an animated boy GIF to the top-right corner -->
+<div style="position: absolute; top: 10px; right: 10px; z-index: 100;">
+  <img src="https://media.giphy.com/media/3o7bu3X9tIa6y9xLaE/giphy.gif" alt="Animated Boy" width="200" />
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/janindu-tharinda-wickramanayaka-653b66253" target="_blank">
@@ -89,7 +94,4 @@
   </a> 
 </p>
 
-<!-- Add an animated boy GIF to the top-right corner -->
-<div style="position: absolute; top: 10px; right: 10px; z-index: 100;">
-  <img src="https://media.giphy.com/media/3o7bu3X9tIa6y9xLaE/giphy.gif" alt="Animated Boy" width="200" />
-</div>
+
