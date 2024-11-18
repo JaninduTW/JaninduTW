@@ -15,8 +15,8 @@
 - 📫 How to reach me **janindutharinda2001@gmail.com**<br>
 - ⚡ Fun fact **Funny Guy**
 
- <h3 align="left">Connect with me:</h3>
-<p align="left">
+ <h3 align="center">Connect with me:</h3>
+<p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/janindu-tharinda-wickramanayaka-653b66253" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
