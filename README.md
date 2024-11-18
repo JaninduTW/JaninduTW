@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/](https://www.youtube.com/)<br><br>
 - 💬 Ask me about **React**<br><br>
 - 📫 How to reach me **janindutharinda2001@gmail.com**<br><br>
-- ⚡ Fun fact **Funny IT Guy**  <br>
+- ⚡ Fun fact **Funny IT Guy**  <br><br>
 
 
 
@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
+<br>
 
 
 
