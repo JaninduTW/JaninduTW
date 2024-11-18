@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer from Sri Lanka</h3>
 
 <p align="center"> 
-  <img src="https://tenor.com/sclDlplsxDA.gif" alt="janindutw" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" alt="janindutw" />
 </p>
 
 - 🔭 I’m currently working on **Movie Theater Website** <br>
