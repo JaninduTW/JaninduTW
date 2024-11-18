@@ -89,7 +89,7 @@
   </a> 
 </p>
 
-<!-- Add an animation gif to the right -->
-<div align="right">
-  <img src="https://media.giphy.com/media/3o7bu3X9tIa6y9xLaE/giphy.gif" alt="Animated GIF" width="300" />
+<!-- Add an animated boy GIF to the top-right corner -->
+<div style="position: absolute; top: 10px; right: 10px; z-index: 100;">
+  <img src="https://media.giphy.com/media/3o7bu3X9tIa6y9xLaE/giphy.gif" alt="Animated Boy" width="200" />
 </div>
