@@ -16,6 +16,23 @@
     />
 </p>
 
+<style>
+  img {
+    display: block;
+    margin: 0 auto;
+    border: 6px solid #fff;
+    border-radius: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  img:hover {
+    transform: scale(1.05); /* Slight zoom on hover */
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2); /* Deeper shadow on hover */
+  }
+</style>
+
+
 
 
 - 🔭 I’m currently working on **Movie Theater Website** <br>
