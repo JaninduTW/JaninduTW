@@ -21,24 +21,25 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/janindu-tharinda-wickramanayaka-653b66253" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="40" height="40" />
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/yourusername" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" />
   </a>
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/yourusername" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40" />
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/janindutw" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40" />
   </a>
 </p>
+
 
 
 
