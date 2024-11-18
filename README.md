@@ -1,38 +1,11 @@
 <h1 align="center">Hi 👋, I'm Janindu</h1>
 <h3 align="center">A Software Developer from Sri Lanka</h3>
 
-<p align="center">
-  <img  
-    style=" 
-      display: block; 
-      margin: 0 auto; 
-      border: 6px solid #fff; /* White border */
-      border-radius: 20px; /* Rounded corners */
-      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-      transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
-    " 
-    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTE0aDAwM2kxbHd2bGIybXR0em55bDl0ZnV3NHZ1cGx3MWw1a3JveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" 
-    alt="janindutw" 
-    />
+<p align="center" >
+<img  
+  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTE0aDAwM2kxbHd2bGIybXR0em55bDl0ZnV3NHZ1cGx3MWw1a3JveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" 
+  alt="janindutw" />
 </p>
-
-<style>
-  img {
-    display: block;
-    margin: 0 auto;
-    border: 6px solid #fff;
-    border-radius: 20px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-
-  img:hover {
-    transform: scale(1.05); /* Slight zoom on hover */
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2); /* Deeper shadow on hover */
-  }
-</style>
-
-
 
 
 - 🔭 I’m currently working on **Movie Theater Website** <br>
