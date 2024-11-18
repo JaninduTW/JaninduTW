@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer from Sri Lanka</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=janindutw&label=Profile%20views&color=0e75b6&style=flat" alt="janindutw" />
+  <img src="https://tenor.com/sclDlplsxDA.gif" alt="janindutw" />
 </p>
 
 - 🔭 I’m currently working on **Movie Theater Website** <br>
