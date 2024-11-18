@@ -15,10 +15,27 @@
 - 📫 How to reach me **janindutharinda2001@gmail.com**<br>
 - ⚡ Fun fact **Funny Guy**
 
+ <!-- Linkedln -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/janindu-tharinda-wickramanayaka-653b66253" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+ <!-- Instagram -->
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/yourusername" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/janindutw" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
