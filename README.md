@@ -2,8 +2,7 @@
 <h3 align="center">A Software Developer from Sri Lanka</h3>
 
 <p align="center" >
-<img 
-  style="display: block; margin: 0 auto; border: 5px solid white; border-radius: 15px;" 
+<img  
   src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTE0aDAwM2kxbHd2bGIybXR0em55bDl0ZnV3NHZ1cGx3MWw1a3JveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" 
   alt="janindutw" />
 </p>
