@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer from Sri Lanka</h3>
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" alt="janindutw" />
+  <img  style="300px" src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" alt="janindutw" />
 </p>
 
 - 🔭 I’m currently working on **Movie Theater Website** <br>
@@ -11,11 +11,6 @@
 - 💬 Ask me about **React**<br>
 - 📫 How to reach me **janindutharinda2001@gmail.com**<br>
 - ⚡ Fun fact **Funny Guy**
-
-<!-- Add an animated boy GIF to the top-right corner -->
-<div style="position: absolute; top: 10px; right: 10px; z-index: 100;">
-  <img src="https://media.giphy.com/media/3o7bu3X9tIa6y9xLaE/giphy.gif" alt="Animated Boy" width="200" />
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
