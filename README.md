@@ -7,13 +7,15 @@
   alt="janindutw" />
 </p>
 
-
-- 🔭 I’m currently working on **Movie Theater Website** <br>
+<div align="center" >
+  - 🔭 I’m currently working on **Movie Theater Website** <br>
 - 🌱 I’m currently learning **Python**<br>
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/](https://www.youtube.com/)<br>
 - 💬 Ask me about **React**<br>
 - 📫 How to reach me **janindutharinda2001@gmail.com**<br>
 - ⚡ Fun fact **Funny Guy**
+</div>
+
 
  <h3 align="center">Connect with me:</h3>
 <p align="center">
