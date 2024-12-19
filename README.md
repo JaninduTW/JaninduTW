@@ -12,8 +12,8 @@
 
 - 🔭 I’m currently working on **Movie Theater Website** <br><br>
 - 🌱 I’m currently learning **HTML & CSS**<br><br>
-- 👨‍💻 All of my projects are available at 
-- 💬 Ask me about 
+- 👨‍💻 All of my projects are available at <br><br> 
+- 💬 Ask me about <br><br>
 - 📫 How to reach me **janindutharinda2001@gmail.com**<br><br>
 - ⚡ Fun fact **Funny IT Guy**  <br><br>
 
